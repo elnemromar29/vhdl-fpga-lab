@@ -1,0 +1,27 @@
+# Vivado generated output
+*.jou
+*.log
+*.str
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+*.sdk/
+*.Xil/
+
+# Simulation output
+*.wdb
+*.vcd
+*.ghw
+*.cf
+work/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
